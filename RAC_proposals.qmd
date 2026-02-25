@@ -4,6 +4,8 @@
 
 Proposals submitted to the Hubbard Brook Research Advisory Committee (RAC), are managed through the JotForm account at the Cary Institute. Calls for proposals go out to the research community for March and September deadlines. Information on the process is found on [proposal submission page](https://hubbardbrook.org/research-proposal-submission/) on the Hubbard Brook website.
 
+Note that the scope of this chapter is limited to the IM role in handling the RAC proposal submissions. Details on the RAC committee (appointments and responsibilities) are described in detail in the *Organization Plan for the Hubbard Brook Ecosystem Study* - a document managed and available from the HB Scientific Coordinating Commitee (SCC).
+
 ## IM role in RAC submissions
 
 Beginning in Spring 2023, the RAC proposals have been submitted through the Cary institute Jotform. Prior to this, the submission pathway was via website forms hosted at UNH (2008-2014) and google forms (2015-2023). The structure of the form was migrated to JotForm, and from 2023-2024 a number of enhancements have been made. The Hubbard Brook sharepoint RAC folder contains a backup of all proposals. Admin access to the JotForm can be obtained from IT support at the Cary Institute.
