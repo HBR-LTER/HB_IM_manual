@@ -1,0 +1,22 @@
+# Job Postings
+
+Jobs and opportunities can be posted on the Hubbard Brook website. n order to do so, the submitter emails the following to the Information Manager:
+
+## Submitter tasks
+
+* Job title
+* Brief description of the job to lead in to 'read more'
+* A more detailed PDF of the job description to include 
+  + Job description 
+  + Contact
+  +  Stipend (if REU)
+  +  Important dates (application deadline, term of employment)
+  +  Instruction on how to apply (letter of interest, CV, references for REU; HR link for position, etc)
+
+## IM tasks
+
+* open jobs block on website (about/jobs and education/undergrad if applicable)
+* TITLE (in bold) - text snippet - 'Read more' (with link to the pdf, or external institution posting)
+* IM will post the full REU list on LTER - an example can be seen here [2026 REU listing on LTER](https://lternet.edu/opportunities/research-experience-for-undergraduates-reu-opportunities-at-hubbard-brook-2026/)
+* if modifications to our REU list occur, the read mores will go to our site pdf version. Be sure that revised file has same name/url as original and then our pages and LTER will all link without modification. Adding new listings may require an email to LTER (MDowns)
+ 
