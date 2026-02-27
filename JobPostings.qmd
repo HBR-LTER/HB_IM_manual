@@ -1,8 +1,9 @@
 # Job Postings
 
-Jobs and opportunities can be posted on the Hubbard Brook website. n order to do so, the submitter emails the following to the Information Manager:
+Jobs and opportunities can be posted on the Hubbard Brook website. 
+Submitter and IM tasks follow.
 
-## Submitter tasks
+## Submitter tasks (to be emailed to HB IM)
 
 * Job title
 * Brief description of the job to lead in to 'read more'
